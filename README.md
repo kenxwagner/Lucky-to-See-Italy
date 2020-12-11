@@ -6,4 +6,5 @@ Having a wonderful time you're welcome and Country while standing
 out like a giant.
 </div>
   <p>Interesting food and stories, too.
+<p>Pictures galore. 
 </html>
