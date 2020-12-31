@@ -12,3 +12,5 @@ class DemoCarousel extends Component {
                     <p className="legend">Legend 1</p>
                 </div>
                 <div>
+				
+				//missed
