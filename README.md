@@ -1,5 +1,5 @@
 
-<html><h2>Two American Visit Italy</h2>
+<html><h2>Two Americans Visit Italy</h2>
 <div>
 A visit to Italy in 2009. Rome, Florence, Sienna, Trapani, Favignana.
 Having a wonderful time while standing 
